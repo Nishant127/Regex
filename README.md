@@ -1,4 +1,4 @@
-# Regex Asiignment
+# Regex Assignment
 - ## Using Regular Expression tables in sample-example.html is converted in readable format i.e .csv file.
 - ## Steps to run the file:
   - ### <code>pip install bs4</code>
